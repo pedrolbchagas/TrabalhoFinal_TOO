@@ -73,8 +73,13 @@ classDiagram
     class Pagamento { <<abstract>> }
     class EstadoVenda { <<abstract>> }
 ```
+#Detalhamento de aprendizado
+**Dificuldades encontradas** Para mim foi difícil inicialmente fazer a organização do projeto por falta de prática, junto do fato de raramente fazer trabalhos orientados a objetos com uma complexidade maior fazer toda a estruturação foi complexa.
+**Como consegui resolver** Foi inicialmente na base da tentativa e erro, posteriormente comecei a revisar outros projetos  utilizar outros meios para conseguir identificar o que precisava fazer.
+**Principal aprendizado** Foi a utilização de outras fontes pra melhorar meu próprio projeto.
 
 ## Declaração de uso de IA
+- Ferramenta e modelo: Claude Code, modelo Claude Opus 5.5.
 - Neste trabalho foi utilizado a IA para as seguintes finalidades:
  Ajuda na criação das classes.
  Ajuda com organização dos testes e criação das factories.
